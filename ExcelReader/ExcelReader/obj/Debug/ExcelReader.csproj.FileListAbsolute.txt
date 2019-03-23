@@ -1,0 +1,12 @@
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\bin\Debug\Excel.dll
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\bin\Debug\Excel.pdb
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csprojResolveAssemblyReference.cache
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Form1.resources
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Properties.Resources.resources
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.GenerateResource.Cache
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+c:\users\ytianyu\documents\visual studio 2017\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
