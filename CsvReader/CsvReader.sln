@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvReader", "CsvReader\CsvReader.csproj", "{703BAF11-1453-4430-84C2-90BFC7513456}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SmartAnalysisTool", "SmartAnalysisToolSetup\SmartAnalysisToolSetup.vdproj", "{80894188-7059-476D-BF71-B8464F806DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703BAF11-1453-4430-84C2-90BFC7513456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703BAF11-1453-4430-84C2-90BFC7513456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703BAF11-1453-4430-84C2-90BFC7513456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703BAF11-1453-4430-84C2-90BFC7513456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80894188-7059-476D-BF71-B8464F806DE1}.Debug|Any CPU.ActiveCfg = Debug
+		{80894188-7059-476D-BF71-B8464F806DE1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

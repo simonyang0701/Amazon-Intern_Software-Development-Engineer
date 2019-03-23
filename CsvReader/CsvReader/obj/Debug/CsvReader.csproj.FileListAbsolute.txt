@@ -1,0 +1,9 @@
+c:\users\ytianyu\documents\visual studio 2017\Projects\CsvReader\CsvReader\bin\Debug\CsvReader.exe.config
+c:\users\ytianyu\documents\visual studio 2017\Projects\CsvReader\CsvReader\bin\Debug\CsvReader.exe
+c:\users\ytianyu\documents\visual studio 2017\Projects\CsvReader\CsvReader\bin\Debug\CsvReader.pdb
+c:\users\ytianyu\documents\visual studio 2017\Projects\CsvReader\CsvReader\obj\Debug\CsvReader.CsvReader.resources
+c:\users\ytianyu\documents\visual studio 2017\Projects\CsvReader\CsvReader\obj\Debug\CsvReader.Properties.Resources.resources
+c:\users\ytianyu\documents\visual studio 2017\Projects\CsvReader\CsvReader\obj\Debug\CsvReader.csproj.GenerateResource.Cache
+c:\users\ytianyu\documents\visual studio 2017\Projects\CsvReader\CsvReader\obj\Debug\CsvReader.exe
+c:\users\ytianyu\documents\visual studio 2017\Projects\CsvReader\CsvReader\obj\Debug\CsvReader.pdb
+C:\Users\ytianyu\Documents\Visual Studio 2017\Projects\CsvReader\CsvReader\bin\Debug\ICSharpCode.SharpZipLib.dll
